@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.uzcoins.uz
+
+# Sitemaps
+Sitemap: https://www.uzcoins.uz/sitemap.xml

@@ -1,0 +1,180 @@
+{
+    "Meta": {
+        "Home": {
+            "title": "O'zbekistonda tangalar Numizmatikasi",
+            "description": "O'zbekistonda tangalar Numizmatikasi"
+        }
+      },
+    "Header": {
+        "logoText": "O'zbekiston numizmatikasi",
+        "main": "Bosh Sahifa",
+        "coins": "O'zbekiston tangalari",
+        "market": "Tangalar sotuvi",
+        "publicates": "E’lon qilish",
+        "contact": "Bizning kontaktlarimiz"
+    },
+    "Content": {
+        "title": "Jaloliddin Manguberdi tavalludiga 825 yil",
+        "text": "Jaloliddin Manguberdi tavalludining 825 yilligi munosabati bilan O‘zbekiston Respublikasi Markaziy banki nominaldagi 50 ming, 100 ming va 200 ming so‘mlik esdalik tangalarini muomalaga chiqardi.",
+        "link": "Batafsil ma'lumot"
+   },
+   "Ourcontacts": {
+    "title": "Bizning kontaktlarimiz"
+   },
+   "Form": {
+    "title": "Biz bilan bog'lanish",
+    "name": "Sizning ismingiz",
+    "number": "Sizning raqamingiz",
+    "email": "Sizning email",
+    "text": "Xabaringizni kiriting",
+    "btn": "Yuborish"
+    },
+   "Shop": {
+    "title": "Tangalar sotuvi",
+    "sssr": "SSSR yubiley tangalari",
+    "kz": "Qozogíston yubiley tangalari",
+    "ru": "Rossiya Federatsiyasi yubiley tangalari"
+   },
+   "Coins": {
+    "title": "O'zbekiston tangalari",
+    "btn": "Batafsil",
+    "coins1994": {
+        "title": "1994 yil namunasidagi tangalar ",
+        "text1": "Qiymati 1, 3, 5, 10, 20 va 50 tiyin",
+        "text2": "Faqat bir yil mobaynida chiqarilgan",
+        "text3": "Tangalardagi yozuvlar kirill alifbosida yozilgan",
+        "tiyn1": {
+            "name": "1 tiyin qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, jez bilan qoplangan (magnitga yopishadi), diametri – 17,0 mm, qalinligi - 1,2 mm, og’irligi – 1,7 g. Yon tomoni silliq holatda."
+        },
+        "tiyn3": {
+            "name": "3 tiyin qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, jez bilan qoplangan (magnitga yopishadi), diametri – 19,4 mm (rasman – 20 mm), qalinligi - 1,3 mm,  og’irligi – 2,7 g. Yon tomoni bo'rtma tishlar shaklida."
+        },
+        "tiyn5": {
+            "name": "5 tiyin qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, jez bilan qoplangan (magnitga yopishadi), diametri – 21,4 mm (rasman – 21,5 mm), qalinligi - 1,4 mm,  og’irligi – 3,4 g. Yon tomoni bo'rtma tishlar shaklida. "
+        },
+        "tiyn10": {
+            "name": "10 tiyin qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 18,7 mm (rasman – 18,8 mm),  qalinligi - 1,6 mm, og’irligi – 2,85 g. Yon tomoni bo'rtma tishlar shaklida."
+        },
+        "tiyn20": {
+            "name": "20 tiyin qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 22,0 mm, qalinligi - 1,5 mm, og’irligi – 4,0 g. Yon tomoniga 'ЙИГИРМА ТИЙИН' yozuvi tushirilgan. "
+        },
+        "tiyn50": {
+            "name": "50 tiyin qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 23,9 mm, qalinligi - 1,6 mm, og’irligi – 4,8 g. Yon tomoniga 'ЭЛЛИК ТИЙИН' yozuvi tushirilgan. "
+        }
+    },
+    "coins1997": {
+        "title": "1997 yil namunasidagi tangalar",
+        "text1": "Qiymati 1, 5, 10 so’m",
+        "text2": "1997-2000 yillar mobaynida chiqarilgan",
+        "text3": "Tangalardagi yozuvlar kirill alifbosida yozilgan",
+        "sum1_1997": {
+            "name": "1 so’m qiymatidagi tanga (1997 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - xrom) (magnitga yopishadi),diametri – 19,8 mm, qalinligi - 1,3 mm, og’irligi – 2,7 g (rasman – 2,72 g). Yon tomoni silliq holatda."
+        },
+        "sum1_1997_nikel": {
+            "name": "1 so’m qiymatidagi tanga (1997 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi),diametri – 19,8 mm, qalinligi - 1,3 mm, og’irligi – 2,7 g (rasman – 2,72 g). Yon tomoni silliq holatda."
+        },
+        "sum1_1998": {
+            "name": "1 so’m qiymatidagi tanga (1998 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi),diametri – 19,8 mm, qalinligi - 1,3 mm, og’irligi – 2,7 g (rasman – 2,72 g). Yon tomoni silliq holatda."
+        },
+        "sum1_1999": {
+            "name": "1 so’m qiymatidagi tanga (1999 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 19,8 mm, qalinligi - 1,3 mm, og’irligi – 2,7 g (rasman – 2,72 g). Yon tomoni silliq holatda."
+        },
+        "sum5_1997": {
+            "name": "5 so’m qiymatidagi tanga (1997 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - xrom) (magnitga yopishadi), diametri – 22,2 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,0 g. Yon tomoni silliq holatda."
+        },
+        "sum5_1997_nikel": {
+            "name": "5 so’m qiymatidagi tanga (1997 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi),diametri – 22,2 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,0 g. Yon tomoni silliq holatda."
+        },
+        "sum5_1998": {
+            "name": "5 so’m qiymatidagi tanga (1998 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi),diametri – 22,2 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,0 g. Yon tomoni silliq holatda."
+        },
+        "sum5_1999": {
+            "name": "5 so’m qiymatidagi tanga (1999 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi),diametri – 22,2 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,0 g. Yon tomoni silliq holatda."
+        },
+        "sum10_1997": {
+            "name": "10 so’m qiymatidagi tanga (1997 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - xrom) (magnitga yopishadi), diametri – 24,1 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,75 g. Yon tomoni silliq holatda."
+        },
+        "sum10_1997_nikel": {
+            "name": "10 so’m qiymatidagi tanga (1997 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi),diametri – 24,1 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,75 g. Yon tomoni silliq holatda."
+        },
+        "sum10_1998": {
+            "name": "10 so’m qiymatidagi tanga (1998 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi),diametri – 24,1 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,75 g. Yon tomoni silliq holatda."
+        },
+        "sum10_1999": {
+            "name": "10 so’m qiymatidagi tanga (1999 yil)",
+            "text": "- Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 24,1 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,75 g. Yon tomoni silliq holatda."
+        },
+        "sum10_2000": {
+            "name": "10 so’m qiymatidagi tanga (2000 yil)",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 24,1 mm, qalinligi - 1,5 mm (rasman – 1,6 mm), og’irligi – 4,75 g. Yon tomoni silliqholatda."
+        }
+    },
+    "coins2000": {
+        "title": "2000-2001 yil namunasidagi tangalar",
+        "text1": "Qiymati 1, 5, 10 so’m ",
+        "text2": "2000-2001 yillar mobaynida chiqarilgan ",
+        "text3": "Tangalardagi yozuvlar lotin alifbosida yozilgan",
+        "sum1_2000": {
+            "name": "1 so’m qiymatidagi tanga (2000 yil) ",
+            "text": " Tanga po'latdan tayyorlangan, nikel bilan qoplangan (magnitga yopishadi), diametri – 18,8 mm, qalinligi - 1,6 mm, og’irligi – 2,85 g. Yon tomoni qirralangan."
+        },
+        "sum5_2001": {
+            "name": "5 so’m qiymatidagi tanga (2001 yil) ",
+            "text": " Tanga po'latdan tayyorlangan, mis-ruh qotishmasi bilan qoplangan (magnitga yopishadi), diametri – 21,2 mm, qalinligi - 1,5 mm, og’irligi – 3,4 g. Yon tomoni silliq. Chiqarilgan vaqti – 1 sentyabr 2001 yil."
+        },
+        "sum10_2001": {
+            "name": "10 so’m qiymatidagi tanga (2001 yil)",
+            "text": "Tanga po'latdan tayyorlangan, mis-ruh qotishmasi bilan qoplangan, rangi oq (magnitga yopishadi), diametri – 19,9 mm, qalinligi - 1,3 mm, og’irligi – 2,7 g. Yon tomoni silliq. Chiqarilgan vaqti – 1 sentyabr 2001 yil."
+        }
+    },
+    "coins2008": {
+        "title": "2018 yil namunasidagi tangalar ",
+        "text1": "Qiymati 50, 100, 200 va 500 so’m",
+        "text2": "Faqat bir yil mobaynida chiqarilgan",
+        "text3": "Tangalardagi yozuvlar lotin alifbosida yozilgan",
+        "sum50": {
+            "name": "50 so’m qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 18 mm, qalinligi - 1 mm,  og’irligi – 2 g. Yon tomoni silliq."
+        },
+        "sum100": {
+            "name": "100 so’m qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 20 mm, qalinligi - 1 mm,  og’irligi – 2,5 g. Yon tomoni silliq."
+        },
+        "sum200": {
+            "name": "200 so’m qiymatidagi tanga",
+            "text": "Tanga po'latdan tayyorlangan, oq metal bilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 22 mm, qalinligi – 1,1 mm,  og’irligi – 3,3 g. Yon tomoni silliq."
+        },
+        "sum500": {
+            "name": "500 so’m qiymatidagi tanga ",
+            "text": "- Tanga po'latdan tayyorlangan, oq metalbilan qoplangan (rasman - nikel) (magnitga yopishadi), diametri – 24 mm, qalinligi – 1,1 mm, og’irligi – 3,9 g. Yon tomoni silliq."
+        }
+    }
+   },
+   "Publications": {
+    "title": "Nashrlarni (publikatsiyalarni) joylashtirish"
+   },
+   "Time": {
+    
+    "title": "Har kuni, soat 9:00 dan 20:00 gacha"
+   },
+   "Soon": {
+    "title": "Tez orada qoshiladi"
+   }
+}
